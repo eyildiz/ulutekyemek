@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1046639820669",
+    "firebase_url": "https://ulutek-asistan.firebaseio.com",
+    "project_id": "ulutek-asistan",
+    "storage_bucket": "ulutek-asistan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046639820669:android:f00796d6041ce181",
+        "android_client_info": {
+          "package_name": "mobilancer.com.ulutekyemek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046639820669-5u0jcl5tdbp52iqt8f1eg130bui91dgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobilancer.com.ulutekyemek",
+            "certificate_hash": "97BB8E2F40D103C364B28A1CC9E86B00167C3011"
+          }
+        },
+        {
+          "client_id": "1046639820669-fu6b1hfqeb460pekj3olvdeh9ecigb6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnq3ry3ryhlLoivnZqspIpGrkFnFsQFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046639820669-fu6b1hfqeb460pekj3olvdeh9ecigb6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
